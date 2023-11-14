@@ -15,7 +15,7 @@ import android.widget.Toast;
 
 /**
  * Clase que muestra el menú principal para usuarios registrados
- * @author: Carlos Cruz
+ * @author: Equipo Turingo
  * @version: 1
  */
 public class PrincipalMenu extends AppCompatActivity {
