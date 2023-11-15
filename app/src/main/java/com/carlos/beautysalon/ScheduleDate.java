@@ -73,7 +73,7 @@ public class ScheduleDate extends AppCompatActivity {
                     if (resultado != -1) {
                         Intent intent = new Intent(this, PrincipalMenu.class);
                         startActivity(intent);
-                        Toast.makeText(this, "Cita guardada correctamente", Toast.LENGTH_SHORT).show();
+                        Toast.makeText(this, "Se guardó la cita", Toast.LENGTH_SHORT).show();
                     } else {
                         Toast.makeText(this, "Ya existe una cita reservada a esa fecha y hora", Toast.LENGTH_SHORT).show();
                     }
