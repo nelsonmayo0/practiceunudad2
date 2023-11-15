@@ -2,7 +2,7 @@
     <!-- Elementos generales -->
     <string name="salon_name">Oco Aesthetics</string>
     <string name="email">Correo electrónico</string>
-    <string name="password">Contraseña</string>
+    <string name="password">Contrasena</string>
 
     <!-- Elementos de inicio de sesión -->
     <string name="login">Iniciar sesión</string>
@@ -17,7 +17,7 @@
     <string name="wrong_password">Las contraseñas no coinciden</string>
     <string name="error_phone">Ingresa un teléfono válido \nDebe contener 10 números</string>
     <string name="email_not_found">No se encuentra la cuenta</string>
-    <string name="email_not_match">Contraseña incorrecta</string>
+    <string name="email_not_match">Contrasena incorrecta</string>
 
     <!-- Elementos de registro -->
     <string name="first_name">Nombre (s)</string>
