@@ -1,6 +1,6 @@
 <resources>
     <!-- Elementos generales -->
-    <string name="salon_name">Charly\'s Salon</string>
+    <string name="salon_name">Oco Aesthetics</string>
     <string name="email">Correo electrónico</string>
     <string name="password">Contraseña</string>
 
@@ -32,7 +32,7 @@
     <string name="update_account">Editar cuenta</string>
     <string name="exit">Salir</string>
     <string name="home">Home</string>
-    <string name="about_me">Conoce Charly\'s Salon</string>
+    <string name="about_me">Conoce Oco Aesthetics</string>
     <string name="session_type">Tipo de sesión</string>
 
     <!-- Elementos Agendar cita -->
