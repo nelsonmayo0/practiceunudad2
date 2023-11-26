@@ -25,8 +25,8 @@ import com.carlos.beautysalon.backend.utils.Utilidades;
 
 /**
  * Clase para iniciar sesión, si el usuario no tiene cuenta, se puede registrar
- * @author: Carlos Cruz
- * @version: 1
+ * @author: Turingo
+ * @version: 1.0
  */
 
 public class MainActivity extends AppCompatActivity {
