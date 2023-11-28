@@ -31,7 +31,7 @@ import java.util.Locale;
 
 /**
  * Clase para registrar usuario
- * @author: Carlos Cruz
+ * @author: Nelson y carlos
  * @version: 1
  */
 public class SignUp extends AppCompatActivity {
